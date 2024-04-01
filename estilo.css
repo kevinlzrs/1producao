@@ -1,0 +1,45 @@
+body {
+    background-color: green;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: green;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.content {
+    text-align: center;
+}
+
+.images img {
+    width: 30%;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+p {
+    margin-top: 20px;
+    color: #fff;
+}
+
+.icons {
+    margin-top: 20px;
+}
+
+.icons a {
+    margin: 0 10px;
+}
+
+.icons img {
+    width: 40px;
+    height: 40px;
+}
